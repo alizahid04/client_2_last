@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 122" role="img" aria-label="رمز مكتب المميز للخدمات"><title>مكتب المميز للخدمات</title><defs><linearGradient id="gs" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#0F7A62"/><stop offset="1" stop-color="#08443A"/></linearGradient></defs>
+<path d="M60 5 L109 21 V60 C109 89 87 109 60 117 C33 109 11 89 11 60 V21 Z" fill="url(#gs)"/>
+<path d="M60 11 L103 25 V60 C103 85 84 103 60 111 C36 103 17 85 17 60 V25 Z" fill="none" stroke="#C9A45C" stroke-width="1.6"/>
+<path d="M40 27 H67 L82 42 V82 a4 4 0 0 1 -4 4 H44 a4 4 0 0 1 -4 -4 Z" fill="#FBF8F0"/>
+<path d="M67 27 V38 a4 4 0 0 0 4 4 H82 Z" fill="#E4D5AE"/>
+<rect x="47" y="52" width="27" height="3.6" rx="1.8" fill="#0B5D4B" opacity=".85"/>
+<rect x="47" y="60" width="27" height="3.6" rx="1.8" fill="#0B5D4B" opacity=".55"/>
+<rect x="47" y="68" width="15" height="3.6" rx="1.8" fill="#0B5D4B" opacity=".35"/>
+<circle cx="79" cy="82" r="16" fill="#C9A45C" stroke="#FBF8F0" stroke-width="3"/>
+<path d="M71.5 82.5 l5.2 5.2 l9.3 -10.6" fill="none" stroke="#08443A" stroke-width="4.2" stroke-linecap="round" stroke-linejoin="round"/></svg>
